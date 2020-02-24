@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+E:\stockmanagment\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4130493946.index
+363860900.index
+1489477306.index
+2858084073.index
+3748010753.index
+3046452838.index
